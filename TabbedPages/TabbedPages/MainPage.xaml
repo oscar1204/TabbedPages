@@ -12,9 +12,9 @@
                 <Label 
                 Text="Estos Son Los Datos Basicos"></Label>
             </StackLayout>
+        </ContentPage>
 
-
-            <ContentPage Title="Intereses">
+        <ContentPage Title="Intereses">
                 <StackLayout 
                     HorizontalOptions="Center"
                     VerticalOptions="Center">
@@ -30,6 +30,5 @@
                         Text="Estos Son Los Los Intereses"></Label>
                 </StackLayout>
             </ContentPage>
-        </ContentPage>
-    </TabbedPage.Children> 
+         </TabbedPage.Children> 
 </TabbedPage>
